@@ -39,7 +39,9 @@ This portfolio forms part of the final assessment for the Diploma in ICT at CPUT
 ## 🎤 Interview Skills
 
 ### 📝 Evidence
-https://github.com/Gqutyana/Portfolio-Professional-Practice-3/blob/main/interview%20mock%20video.mp4
+<img width="1366" height="768" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/cf2f086b-3992-45d0-a7a5-b55cea6851f1" />
+
+
 
 
 
@@ -63,8 +65,7 @@ https://github.com/Gqutyana/Portfolio-Professional-Practice-3/blob/main/intervie
 ## 🎬 Mock Interview
 
 ### 📝 Evidence
-https://github.com/wil-it2025/cv-tutorial-Gqutyana?tab=readme-ov-file 
-
+https://github.com/Gqutyana/Portfolio-Professional-Practice-3/blob/main/interview%20mock%20video.mp4
 
 ### 🔁 Reflection (Using STAR Technique)
 
