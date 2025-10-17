@@ -39,7 +39,7 @@ This portfolio forms part of the final assessment for the Diploma in ICT at CPUT
 ## 🎤 Interview Skills
 
 ### 📝 Evidence
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/550672d3-0d36-4bbe-8d02-ea038a8c1ad4" />
+https://github.com/Gqutyana/Portfolio-Professional-Practice-3/blob/main/interview%20mock%20video.mp4
 
 
 
